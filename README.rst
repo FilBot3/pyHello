@@ -28,3 +28,9 @@ The module can also be accessed via Python itself.
 
   $> python -m pyHello ARG
 
+Sources:
+
+1. https://python-packaging.readthedocs.org/en/latest/index.html
+2. https://gehrcke.de/2014/02/distributing-a-python-command-line-application/
+
+
