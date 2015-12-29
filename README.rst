@@ -21,6 +21,7 @@ The module can then be accessed through IDLE
 
 ```
 >>> import pyHello
+
 >>> print( main() )
 ```
 
