@@ -1,0 +1,20 @@
+# VIM files
+*~
+*.sw[a-z0-9]
+
+
+# Compiles Python modules
+*.pyc
+
+# Setuptools Distribution Folder
+/dist/
+
+# Python build temp files
+/build/
+
+# Python Egg Metadata, regenerated from soruce by setuptools
+*.egg-info
+
+# Python __pycache__
+*pycache*
+
