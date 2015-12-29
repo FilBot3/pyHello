@@ -4,7 +4,7 @@
 #
 #
 
-import pyHello
+from pyHello.pyHello import main
 
 main()
 
