@@ -8,7 +8,7 @@ This file makes the module/package executable via:
 """
 
 """ Import from pyHello.py in this directory """
-from .pyHello import main()
+from .pyHello import main
 
 main()
 
