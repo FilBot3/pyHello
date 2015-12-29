@@ -26,7 +26,7 @@ setup(
   description="Simply prints Hello World.",
   long_description=readme(),
   url="http://github.com/predatorian3/pyHello",
-  auhor="Phillip Dudley",
+  author="Phillip Dudley",
   author_email='Predatorian3@gmail.com',
   license='MIT',
   packages=['pyHello'],
