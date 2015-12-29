@@ -11,7 +11,7 @@ A convenience script to run the Python Module/Package without having to install 
 """ 
 Import relative 
 """
-from pyHello.pyhello import main
+from pyHello.pyHello import main
 
 """ 
 Not sure what this is actually doing. 
