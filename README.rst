@@ -17,7 +17,7 @@ or to do a development "install"
 
 The module can then be accessed through IDLE  
 
-  >>> import pyHello
+  >>> from pyHello.pyHello import main
   >>> print( main() )
 
 If the $PYTHON_HOME/Scripts directory is in your $PATH, then you  have access to the command line application  
